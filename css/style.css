@@ -4,6 +4,7 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+ 
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -75,6 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem; }
+ 
 
 abbr[title],
 abbr[data-original-title] {
@@ -9106,6 +9108,94 @@ h1, h2, h3, h4, h5,
   -moz-box-shadow: 0px 5px 21px -14px rgba(0, 0, 0, 0.14);
   box-shadow: 0px 5px 21px -14px rgba(0, 0, 0, 0.14);
   border-radius: 5px; }
+  @media(max-width:1863px){
+    .align-dani{
+      margin-top: 26px;
+     
+    }
+  }
+  @media(max-width:1199px){
+    .align-dani{
+      margin-top: -3px;
+     
+    }
+  }
+  @media(max-width:385px){
+    .align-dani{
+      margin-top: -25px;
+     
+    }
+  }
+  @media(max-width:320px){
+    .align-dani{
+      margin-top: 6px;
+     
+    }
+  }
+  @media(max-width:280px){
+    .align-dani{
+      margin-top: 0px;
+     
+    }
+  }
+  @media(max-width:991px){
+    .align-fahad{
+      margin-top: -25px;
+     
+    }
+  }
+  @media(max-width:575px){
+    .align-fahad{
+      margin-top: 0px;
+     
+    }
+  }
+  @media(max-width:497px){
+    .align-fahad{
+      margin-top: -25px;
+     
+    }
+  }
+  @media(max-width:767px){
+    .align-gafoor{
+      margin-top: -25px;
+     
+    }
+  }
+  @media(max-width:575px){
+    .align-gafoor{
+      margin-top: -0px;
+     
+    }
+  }
+  @media(max-width:575px){
+    .align-fari{
+      margin-top: -25px;
+     
+    }
+  }
+  @media(max-width:385px){
+    .align-fari{
+      margin-top: 0px;
+     
+    }
+  }
+
+
+  @media(max-width:497px){
+    .align-abhi{
+      margin-top: -25px;
+     
+    }
+  }
+
+
+
+
+
+
+
+
   .testimony-wrap .user-img {
     width: 80px;
     height: 80px;
@@ -9127,6 +9217,75 @@ h1, h2, h3, h4, h5,
   .testimony-wrap .position {
     font-size: 16px;
     color: #b3b3b3; }
+    .says-about-me{
+      height: 294px;
+    }
+    @media(max-width:1199px){
+      .says-about-me{
+        height: 333px;
+       
+      }
+    }
+    @media(max-width:992px){
+      .says-about-me{
+        height: 298px;
+       
+      }
+    }
+    @media(max-width:767px){
+      .says-about-me{
+        height: 370px;
+       
+      }
+    }
+    @media(max-width:575px){
+      .says-about-me{
+        height: 236px;
+       
+      }
+    }
+    @media(max-width:481px){
+      .says-about-me{
+        height: 268px;
+       
+      }
+    }
+    @media(max-width:481px){
+      .says-about-me{
+        height: 300px;
+       
+      }
+    }
+    @media(max-width:320px){
+      .says-about-me{
+        height: 340px;
+       
+      }
+    }
+    @media(max-width:280px){
+      .says-about-me{
+        height: 370px;
+       
+      }
+    }
+
+
+
+   
+
+
+   
+ 
+
+
+   
+   
+
+   
+   
+   
+
+
 
 .aside-stretch {
   background: #c7c9b1; }
@@ -9158,11 +9317,25 @@ h1, h2, h3, h4, h5,
 
 textarea.form-control {
   height: inherit !important; }
+  .card-service{
+    height: 300px;
+  }
+  @media(max-width:1199px){
+    .card-service{
+      height: 379px;
+    }
+  }
+  @media(max-width:991px){
+    .card-service{
+      height: 242px;
+    }
+  }
 
 .ftco-animate {
+  
   opacity: 0;
   visibility: hidden; }
-
+  
 .bg-primary {
   background: #b1b493 !important; }
 
